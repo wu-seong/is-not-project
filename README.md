@@ -1,0 +1,2 @@
+# is-not-project
+okay
